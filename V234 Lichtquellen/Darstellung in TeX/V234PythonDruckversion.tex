@@ -1,0 +1,65 @@
+%kompiliert mit XeLaTeX
+
+\documentclass[DIV=13]{scrartcl}
+%Laden des Mathe-Pakets
+\usepackage{amsmath}
+%Spracheinstellung & Microtypografie
+\usepackage{fontspec} 
+\usepackage{polyglossia}
+\setmainlanguage{german}
+\usepackage{microtype}
+\setmainfont{Linux Libertine O}
+%Erstellen der Kopfzeile
+\usepackage[headsepline]{scrpage2}
+\pagestyle{scrheadings}
+\setkomafont{pageheadfoot}{\normalfont}
+\ihead{Versuch 234: Lichtquellen}
+\ohead{Mathieu Kaltschmidt}
+
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{siunitx}
+
+\definecolor{mygreen}{rgb}{0,0.6,0}
+\definecolor{mygray}{rgb}{0.5,0.5,0.5}
+
+\lstset{backgroundcolor=\color{gray!8},basicstyle=\footnotesize,breakatwhitespace=false,breaklines=true,captionpos=b,commentstyle=\color{blue!60!purple!60},stringstyle=\color{red!80},  frame=single,keywordstyle=\color{mygreen},language={Python},numbers=left,numbersep=5pt,numberstyle=\tiny\color{mygray},showspaces=false,showstringspaces=false,showtabs=false,stepnumber=2	}
+\begin{document}
+\section*{Auswertung der Messergebnissse}
+\subsection*{Teil 1: Auswertung des Sonnenspektrums}
+\lstinputlisting[firstline=10,lastline=18]{V234Lichtquellen.py.html}
+\lstinputlisting[firstline=23,lastline=30]{V234Lichtquellen.py.html}
+\subsubsection*{Vergleich der aufgenommenen Spektren}
+\lstinputlisting[firstline=37,lastline=50]{V234Lichtquellen.py.html}
+\subsubsection*{Berechnung der Absorption}
+\lstinputlisting[firstline=57,lastline=69]{V234Lichtquellen.py.html}
+\subsubsection*{Analyse der Fraunhoferlinien (am Bsp. des Himmelslichts,weil keine direkte Sonnenmessung möglich war)}
+\lstinputlisting[firstline=76,lastline=86]{V234Lichtquellen.py.html}
+\lstinputlisting[firstline=91,lastline=113]{V234Lichtquellen.py.html}
+\lstinputlisting[firstline=118,lastline=138]{V234Lichtquellen.py.html}
+\section*{Teil 2: Auswertung des Natriumspektrums}
+\lstinputlisting[firstline=145,lastline=156]{V234Lichtquellen.py.html}
+\lstinputlisting[firstline=161,lastline=183]{V234Lichtquellen.py.html}
+\lstinputlisting[firstline=188,lastline=193]{V234Lichtquellen.py.html}
+\lstinputlisting[firstline=198,lastline=218]{V234Lichtquellen.py.html}
+\lstinputlisting[firstline=223,lastline=228]{V234Lichtquellen.py.html}
+\lstinputlisting[firstline=233,lastline=245]{V234Lichtquellen.py.html}
+\lstinputlisting[firstline=250,lastline=255]{V234Lichtquellen.py.html}
+\subsection*{Teil 3: Zuordnung der Linien zu den Serien}
+\subsubsection*{Erste Nebenserie $ md \rightarrow 3p$ }
+\lstinputlisting[firstline=264,lastline=277]{V234Lichtquellen.py.html}
+\subsubsection*{Zweite Nebenserie $ ms \rightarrow 3p$ }
+\lstinputlisting[firstline=284,lastline=299]{V234Lichtquellen.py.html}
+\subsubsection*{Hauptserie $ mp \rightarrow 3s$ }
+\lstinputlisting[firstline=306,lastline=317]{V234Lichtquellen.py.html}
+\subsection*{Teil 4: Bestimmung der Serienenergien und der l-abhängigen Korrekturfaktoren}
+\lstinputlisting[firstline=324,lastline=327]{V234Lichtquellen.py.html}
+\lstinputlisting[firstline=332,lastline=357]{V234Lichtquellen.py.html}
+\lstinputlisting[firstline=362,lastline=374]{V234Lichtquellen.py.html}
+\lstinputlisting[firstline=379,lastline=382]{V234Lichtquellen.py.html}
+\lstinputlisting[firstline=387,lastline=413]{V234Lichtquellen.py.html}
+\lstinputlisting[firstline=418,lastline=432]{V234Lichtquellen.py.html}
+
+\end{document}
