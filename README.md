@@ -1,7 +1,9 @@
 # PAP2-physics-lab-course
 
-This repository contains the data-analysis work and the evaluation of the experiments in Python for the second mandatory physics lab course for physics students (PAP 2) i attended at Heidelberg University during the winter term 2017/2018. \\
-All the code was written by my lab partner @carlvr or by myself @mathieukaltschmidt. \\
+This repository contains the data-analysis work and the evaluation of the experiments in Python for the second mandatory physics lab course for physics students (PAP 2) i attended at Heidelberg University during the winter term 2017/2018.
+
+All the code was written by my lab partner (@carlvr) or by myself @mathieukaltschmidt).
+
 Some work was done together with @MajestyQ and @fthorben.
 
 This course was held in german, thats the reason why most of the comments, titles and informations are in german language.
