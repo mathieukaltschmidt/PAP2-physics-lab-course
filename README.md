@@ -14,38 +14,38 @@ The lab course covered the following experiments:
 
 ### Mechanik - mechanics:
 
-- [ ] V211 Gekoppelte Pendel*
-- [ ] V212 Zähigkeit von Flüssigkeiten*
-- [x] V213 Kreisel
+- [ ] V211 Gekoppelte Pendel - coupled pendulums *
+- [ ] V212 Zähigkeit von Flüssigkeiten - viscosity of fluids*
+- [x] V213 Kreisel- gyroscope
 
 ### Thermodynamik - thermodynamics:
 
-- [x] V221 Adiabatenkoeffizient
-- [x] V222 Heißluftmotor
-- [x] V223 Brownsche Bewegung
+- [x] V221 Adiabatenkoeffizient - adiabatic coefficient
+- [x] V222 Heißluftmotor - hot air / Sterling engine
+- [x] V223 Brownsche Bewegung - Brownian motion
 
 ### Optik - optics:
 
-- [x] V232 Michelson-Interferometer
-- [x] V233 Fourieroptik
-- [x] V234 Lichtquellen
+- [x] V232 Michelson-Interferometer - Michelson interferometer
+- [x] V233 Fourieroptik - Fourier optics
+- [x] V234 Lichtquellen - light sources
 
 ## PAP2.2 in spring 2018
 
 ### Elektromagnetismus - electromagnetism:
 
-- [ ] V241 Wechselstromeigenschaften von RLC-Gliedern
-- [x] V242 Spannungsverstärkung
-- [ ] V243 Thermisches Rauschen
-- [ ] V245 Induktion
+- [ ] V241 Wechselstromeigenschaften von RLC-Gliedern - characteristics of RCL circuits in use with alternating current
+- [x] V242 Spannungsverstärkung - voltage amplification
+- [ ] V243 Thermisches Rauschen - thermal noise
+- [ ] V245 Induktion - electromagnetic induction
 
-### Radiaktivität - radioactivity:
+### Radioaktivität - radioactivity:
 
-- [ ] V251 Statistik radioaktiver Zerfälle
-- [ ] V252 Aktivierung mit thermischen Neutronen
-- [ ] V253 Absorption von Alpha-, Beta- und Gamma-Strahlen
-- [ ] V255 Röntgenspektrometer
-- [ ] V256 Röntgenfluoreszenz
+- [ ] V251 Statistik radioaktiver Zerfälle - statistics of radioactive decays
+- [ ] V252 Aktivierung mit thermischen Neutronen - activation of thermal neutrons
+- [ ] V253 Absorption von α-, β- und γ-Strahlen - absorption of α-, β- and γ-rays
+- [ ] V255 Röntgenspektrometer - X-ray spectrometer
+- [ ] V256 Röntgenfluoreszenz - X-ray fluorescence
 
 * The experiments marked with an asterisk weren't evaluated with Python. Unfortunately i couldn't upload anything concerning the evaluation of the experiments.
 
