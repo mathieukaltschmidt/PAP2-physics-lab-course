@@ -34,7 +34,7 @@ The lab course covered the following experiments:
 
 ### Elektromagnetismus - electromagnetism:
 
-- [ ] V241 Wechselstromeigenschaften von RLC-Gliedern - characteristics of RCL circuits in use with alternating current
+- [x] V241 Wechselstromeigenschaften von RLC-Gliedern - characteristics of RCL circuits in use with alternating current
 - [x] V242 Spannungsverstärkung - voltage amplification
 - [ ] V243 Thermisches Rauschen - thermal noise
 - [ ] V245 Induktion - electromagnetic induction
