@@ -1,6 +1,6 @@
 # PAP2-physics-lab-course
 
-This repository contains the data-analysis work and the evaluation of the experiments in Python for the second mandatory physics lab course for physics students (PAP 2) i attended at Heidelberg University during the winter term 2017/2018.
+This repository contains the data-analysis work and the evaluation of the experiments in Python for the second mandatory physics lab course for physics students (PAP 2) I attended at Heidelberg University during the winter term 2017/2018.
 
 All the code was written by my lab partner (@carlvr) or by myself (@mathieukaltschmidt).
 
@@ -34,7 +34,7 @@ The lab course covered the following experiments:
 
 ### Elektromagnetismus - electromagnetism:
 
-- [x] V241 Wechselstromeigenschaften von RLC-Gliedern - characteristics of RCL circuits in use with alternating current
+- [x] V241 Wechselstromeigenschaften von RLC-Gliedern - characteristics of RLC circuits in use with alternating current
 - [x] V242 Spannungsverstärkung - voltage amplification
 - [ ] V243 Thermisches Rauschen - thermal noise
 - [ ] V245 Induktion - electromagnetic induction
@@ -47,6 +47,6 @@ The lab course covered the following experiments:
 - [ ] V255 Röntgenspektrometer - X-ray spectrometer
 - [ ] V256 Röntgenfluoreszenz - X-ray fluorescence
 
-* The experiments marked with an asterisk weren't evaluated with Python. Unfortunately i couldn't upload anything concerning the evaluation of the experiments.
+* The experiments marked with an asterisk weren't evaluated with Python. Unfortunately I couldn't upload anything concerning the evaluation of the experiments.
 
 © Mathieu Kaltschmidt (@mathieukaltschmidt) und Carl von Randow (@carlvr)
