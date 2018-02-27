@@ -41,7 +41,7 @@ The lab course covered the following experiments:
 
 ### Radioaktivität - radioactivity:
 
-- [ ] V251 Statistik radioaktiver Zerfälle - statistics of radioactive decays
+- [x] V251 Statistik radioaktiver Zerfälle - statistics of radioactive decays
 - [ ] V252 Aktivierung mit thermischen Neutronen - activation of thermal neutrons
 - [ ] V253 Absorption von α-, β- und γ-Strahlen - absorption of α-, β- and γ-rays
 - [ ] V255 Röntgenspektrometer - X-ray spectrometer
