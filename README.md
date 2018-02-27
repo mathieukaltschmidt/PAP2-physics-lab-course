@@ -36,8 +36,8 @@ The lab course covered the following experiments:
 
 - [x] V241 Wechselstromeigenschaften von RLC-Gliedern - characteristics of RLC circuits in use with alternating current
 - [x] V242 Spannungsverstärkung - voltage amplification
-- [ ] V243 Thermisches Rauschen - thermal noise
-- [ ] V245 Induktion - electromagnetic induction
+- [x] V243 Thermisches Rauschen - thermal noise
+- [x] V245 Induktion - electromagnetic induction
 
 ### Radioaktivität - radioactivity:
 
