@@ -41,11 +41,11 @@ The lab course covered the following experiments:
 
 ### Radioaktivität - radioactivity:
 
-- [x] V251 Statistik radioaktiver Zerfälle - statistics of radioactive decays
-- [x] V252 Aktivierung mit thermischen Neutronen - activation of thermal neutrons
+- [x] V251 Statistik radioaktiver Zerfälle - statistics of radioactive decays
+- [x] V252 Aktivierung mit thermischen Neutronen - activation with thermal neutrons
 - [ ] V253 Absorption von α-, β- und γ-Strahlen - absorption of α-, β- and γ-rays
-- [ ] V255 Röntgenspektrometer - X-ray spectrometer
-- [ ] V256 Röntgenfluoreszenz - X-ray fluorescence
+- [ ] V255 Röntgenspektrometer - X-ray spectrometer
+- [ ] V256 Röntgenfluoreszenz - X-ray fluorescence
 
 * The experiments marked with an asterisk weren't evaluated with Python. Unfortunately I couldn't upload anything concerning the evaluation of the experiments.
 
