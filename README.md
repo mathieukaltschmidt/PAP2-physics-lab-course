@@ -2,9 +2,9 @@
 
 This repository contains the data-analysis work and the evaluation of the experiments in Python for the second mandatory physics lab course for physics students (PAP 2) I attended at Heidelberg University during the winter term 2017/2018.
 
-All the code was written by my lab partner (@carlvr) or by myself (@mathieukaltschmidt).
+All the code was written by my lab partner [(@carlvr)](https://github.com/carlvr) or by myself [(@mathieukaltschmidt)](https://github.com/mathieukaltschmidt).
 
-Some work was done together with @MajestyQ and @fthorben.
+Some work was done together with [@MajestyQ](https://github.com/MajestyQ) and [@fthorben](https://github.com/fthorben).
 
 This course was held in german, thats the reason why most of the comments, titles and informations are in german language.
 
@@ -44,8 +44,8 @@ The lab course covered the following experiments:
 - [x] V251 Statistik radioaktiver Zerfälle - statistics of radioactive decays
 - [x] V252 Aktivierung mit thermischen Neutronen - activation with thermal neutrons
 - [ ] V253 Absorption von α-, β- und γ-Strahlen - absorption of α-, β- and γ-rays
-- [ ] V255 Röntgenspektrometer - X-ray spectrometer
-- [ ] V256 Röntgenfluoreszenz - X-ray fluorescence
+- [x] V255 Röntgenspektrometer - X-ray spectrometer
+- [x] V256 Röntgenfluoreszenz - X-ray fluorescence
 
 * The experiments marked with an asterisk weren't evaluated with Python. Unfortunately I couldn't upload anything concerning the evaluation of the experiments.
 
