@@ -20,7 +20,7 @@ The lab course covered the following experiments:
 
 ### Thermodynamik - thermodynamics:
 
-- [x] V221 Adiabatenkoeffizient - adiabatic coefficient
+- [x] V221 Adiabatenkoeffizient - adiabatic index
 - [x] V222 Heißluftmotor - hot air / Sterling engine
 - [x] V223 Brownsche Bewegung - Brownian motion
 
@@ -49,4 +49,4 @@ The lab course covered the following experiments:
 
 * The experiments marked with an asterisk weren't evaluated with Python. Unfortunately I couldn't upload anything concerning the evaluation of the experiments.
 
-© Mathieu Kaltschmidt [(@mathieukaltschmidt)](https://github.com/mathieukaltschmidt). und Carl von Randow [(@carlvr)](https://github.com/carlvr)
+© Mathieu Kaltschmidt [(@mathieukaltschmidt)](https://github.com/mathieukaltschmidt) und Carl von Randow [(@carlvr)](https://github.com/carlvr)
